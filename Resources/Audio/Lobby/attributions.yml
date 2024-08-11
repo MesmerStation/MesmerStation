@@ -18,3 +18,8 @@
   license: "CC-BY-4.0"
   copyright: "Tim Kulig"
   source: "https://pixabay.com/music/ambient-stomping-on-a-nanite-201108/"
+
+- files: [brandenburg_concerto_III_allegro_I.ogg]
+  license: "CC0"
+  copyright: "Original song by J.S. Bach, synth cover by dogsounds"
+  source: "https://soundcloud.com/dogsounds-869025562/brandenburg-concerto-no-3-3"
