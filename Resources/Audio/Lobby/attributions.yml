@@ -1,4 +1,20 @@
-﻿- files: ["01 The Gamble.ogg", "02 Guilty Pleasures.ogg", "03 Jazzcuzzi.ogg", "04 The Walk.ogg", "05 Velvet Bossa.ogg", "06 Colors.ogg", "07 Midnight Jam.ogg", "08 Miles Ahead.ogg", "09 Moody.ogg", "10 Flying Away.ogg", "11 Take It Easy.ogg"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "All songs used are produced by Danya Vodovoz, royalty free."
-  source: "https://soundcloud.com/danyavodovoz"
+- files: ["THE_MOST_MYSTERIOUS_SONG_ON_THE_INTERNET.ogg"]
+  license: "Custom"
+  copyright: "This song is famous for being by an unknown artist. If you were the one who made this song and you don't like it being used here, reach out and tell me to remove it!"
+  source: "https://www.youtube.com/watch?v=zPGf4liO-KQ"
+
+- files: ["space_asshole.ogg"]
+  license: "Custom"
+  copyright: "Space Asshole by Chris Remo is used with special permission from the author, under the condition that the project remains non-commercial and open source. The author also requested that a link to his bandcamp be included: https://chrisremo.bandcamp.com/"
+  source: "https://idlethumbs.bandcamp.com/track/space-asshole"
+  # The source is a direct link the the track, but not the "main" bandcamp of the author. Hence the link is also included separately in the copyright.
+
+- files: ["stomping_on_a_nanite.ogg"]
+  license: "CC-BY-4.0"
+  copyright: "Tim Kulig"
+  source: "https://pixabay.com/music/ambient-stomping-on-a-nanite-201108/"
+
+- files: [brandenburg_concerto_III_allegro_I.ogg]
+  license: "CC0-1.0"
+  copyright: "Original song by J.S. Bach, synth cover by dogsounds"
+  source: "https://soundcloud.com/dogsounds-869025562/brandenburg-concerto-no-3-3"
