@@ -1,8 +1,3 @@
-- files: ["Tchaikovsky_HymnOfTheCherubim.ogg"]
-  license: "Custom"
-  copyright: "it's public domain but i cant get the checks to pass if I write CC0 so just pretend it says CC0 it's an old ass Tchaikovsky song he's not gonna rise from the grave to sue me also it's public domain"
-  source: "https://www.youtube.com/watch?v=OPlK5HwFxcw"
-
 - files: ["THE_MOST_MYSTERIOUS_SONG_ON_THE_INTERNET.ogg"]
   license: "Custom"
   copyright: "This song is famous for being by an unknown artist. If you were the one who made this song and you don't like it being used here, reach out and tell me to remove it!"
@@ -20,6 +15,6 @@
   source: "https://pixabay.com/music/ambient-stomping-on-a-nanite-201108/"
 
 - files: [brandenburg_concerto_III_allegro_I.ogg]
-  license: "CC0"
+  license: "CC0-1.0"
   copyright: "Original song by J.S. Bach, synth cover by dogsounds"
   source: "https://soundcloud.com/dogsounds-869025562/brandenburg-concerto-no-3-3"
