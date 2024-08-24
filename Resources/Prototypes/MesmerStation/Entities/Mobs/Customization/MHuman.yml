@@ -6,7 +6,6 @@
   markingCategory: Chest
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_torso
@@ -17,7 +16,6 @@
   markingCategory: Arms
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_l_arm
@@ -28,7 +26,6 @@
   markingCategory: Arms
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_r_arm
@@ -39,7 +36,6 @@
   markingCategory: Legs
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_l_leg
@@ -50,7 +46,6 @@
   markingCategory: Legs
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_r_leg
@@ -61,7 +56,6 @@
   markingCategory: Head
   speciesRestriction: [MutantHuman]
   followSkinColor: true
-  color: HumanToned
   sprites:
   - sprite: MesmerStation/Mobs/Customization/MHuman_markings.rsi
     state: stripe_head
