@@ -1,7 +1,7 @@
 - type: species
   id: Vulpkanin
   name: species-name-vulpkanin
-  roundStart: true
+  roundStart: false #disabled in MesmerStation
   prototype: MobVulpkanin
   sprites: MobVulpkaninSprites
   defaultSkinTone: "#985629"
